@@ -1,0 +1,9 @@
+{
+	"name": "exp-llar-v2-7-4",
+	"version": "1.0.0",
+	"main": "bypass-ip-block.js",
+	"author": "isdampe",
+	"dependencies": {
+		"request": "^2.88.0"
+	}
+}
